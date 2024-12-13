@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web3 and IA
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=BenJ3D)
